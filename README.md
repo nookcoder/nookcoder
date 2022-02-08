@@ -3,7 +3,7 @@
 I'm FrontEnd Developer using Javascript 🎉 <br/>
 Sometimes I do UI/UX design. <br/> 
 
-I'm currently studying blockchain using Go. ✏️ <br/> 
+I'm currently studying blockchain using Go ✏️ <br/> 
 
 ### Skills
 #### Platforms && Languages 
