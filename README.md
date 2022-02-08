@@ -1,6 +1,21 @@
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/gus70005319%40gmail.com-red?style=flat&logo=google&logoColor=white"></a>
 ### Hi there 👋
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/?style=flat&logoColor=#4285F4"></a>
+I'm FrontEnd Developer using Javascript 🎉 <br/>
+Sometimes I do UI/UX design. <br/> 
 
+I'm currently studying blockchain using Go. ✏️ <br/> 
+
+### Skills
+#### Platforms && Languages 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactJs-blue?logo=react"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VueJs-black?logo=vuedotjs"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-white?logo=go"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/NodeJS-green?logo=nodedotjs"></a>
+#### Tools 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-black?logo=figma"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-critical?logo=postman&logoColor=white"></a>
 <!--
 **nookcoder/nookcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
