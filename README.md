@@ -1,6 +1,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/gus70005319%40gmail.com-red?style=flat&logo=google&logoColor=white"></a>
 ### Hi there 👋
-I'm FrontEnd Developer using Javascript 🎉 <br/>
+I'm FrontEnd Developer using Javascript and Typescript 🎉 <br/>
 Sometimes I do UI/UX design. <br/> 
 
 I'm currently studying blockchain using Go ✏️ <br/> 
