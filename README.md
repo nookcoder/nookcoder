@@ -19,7 +19,7 @@ come visit <a href="https://nookcoder.tistory.com/" target="_blank">my blog!!<a/
 #### Tools 
   
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-AWS-orange?logo=aws"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-black?logo=figma"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-critical?logo=postman&logoColor=white"></a>
 <!--
