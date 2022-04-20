@@ -14,7 +14,6 @@ come visit <a href="https://nookcoder.tistory.com/" target="_blank">my blog!!<a/
 #### Platforms && Languages 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactJs-blue?logo=react"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VueJs-black?logo=vuedotjs"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-white?logo=go"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NodeJS-green?logo=nodedotjs"></a>
 #### Tools 
