@@ -1,9 +1,13 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/gus70005319%40gmail.com-red?style=flat&logo=google&logoColor=white"></a>
 ### Hi there 👋
 I'm FrontEnd Developer using Javascript and Typescript 🎉 <br/>
-Sometimes I do UI/UX design. <br/> 
+I mainly use ReactJS and NextJS 🔑 <br/>
+I also know how to use Vuejs 😊<br/> 
+I'm currently studying AWS and Cloud ✏️ <br/> 
 
-I'm currently studying blockchain using Go ✏️ <br/> 
+come visit <a href="https://nookcoder.tistory.com/" target="_blank">my blog!!<a/>  
+
+
 
 ### Skills
 #### Platforms && Languages 
