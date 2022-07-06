@@ -22,6 +22,17 @@ come visit <a href="https://nookcoder.tistory.com/" target="_blank">my blog!!<a/
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-black?logo=figma"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-critical?logo=postman&logoColor=white"></a>
+
+### Career
+
+- En# 21st
+- Sejong University Computer Science 
+- 공공데이터 활용 BI 공모전 장려상 수상 
+- Microsoft ImaginCup Finalist
+- (전) Beeblock FrontEnd Developer 
+- (전) Pple FrontEnd Developer && AWS Management 
+- (현) Buckit Development Lead
+
 <!--
 **nookcoder/nookcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
