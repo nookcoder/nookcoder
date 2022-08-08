@@ -6,7 +6,7 @@ I mainly use ReactJS and NextJS 🔑 <br/>
 I also know how to use Vuejs 😊<br/> 
 I'm currently studying AWS and Cloud ✏️ <br/> 
 
-come visit <a href="https://nookcoder.tistory.com/" target="_blank">my blog!!<a/>  
+come visit <a href="https://velog.io/@nookcoder2/" target="_blank">my blog!!<a/>  
 
 
 
