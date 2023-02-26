@@ -28,7 +28,8 @@ come visit <a href="https://velog.io/@nookcoder2/" target="_blank">my blog!!<a/>
 - En# 21st
 - Sejong University Computer Science 
 - 공공데이터 활용 BI 공모전 장려상 수상 
-- Microsoft ImaginCup Finalist
+- Microsoft ImaginCup Asia 대표 
+- 채널톡 해커톤 대상 수상
 - (전) Beeblock FrontEnd Developer 
 - (전) Pple FrontEnd Developer && AWS Management 
 - (현) Buckit Development Lead
