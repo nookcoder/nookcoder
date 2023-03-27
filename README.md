@@ -25,15 +25,21 @@ come visit <a href="https://velog.io/@nookcoder2/" target="_blank">my blog!!<a/>
 
 ### Career
 
-- En# 21st
 - Sejong University Computer Science 
-- 공공데이터 활용 BI 공모전 장려상 수상 
-- Microsoft ImaginCup Asia 대표 
-- 채널톡 해커톤 대상 수상
+- En# 21st 회장 
 - (전) Beeblock FrontEnd Developer 
-- (전) Pple FrontEnd Developer && AWS Management 
-- (현) Buckit Development Lead
+- (전) Pple FrontEnd && BackEnd
+- (전) Buckit Development Lead
+- 제 14기 소프트웨어 마에스트로 연수생
 
+### Awards
+- Microsoft ImaginCup Asia 대표 
+- 소셜 벤처 인큐베이팅 <메타 스타트업 First-Level> 수상
+- 공공데이터 활용 BI 공모전 장려상 수상 
+- 제4회 세종 창업아이템 공모전 우수상 수상
+- 채널톡 해커톤 대상 수상
+
+  
 <!--
 **nookcoder/nookcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
