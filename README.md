@@ -22,7 +22,7 @@ come visit <a href="https://velog.io/@nookcoder2/" target="_blank">my blog!!<a/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-black?logo=figma"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postman-critical?logo=postman&logoColor=white"></a>
-![Helloworld](https://avatars.githubusercontent.com/u/79124461?v=4)
+![Helloworld](https://avatars.githubusercontent.com/u/79124461?v=a)
 ### Career
 
 - Sejong University Computer Science 
