@@ -30,6 +30,7 @@ come visit <a href="https://velog.io/@nookcoder2/" target="_blank">my blog!!<a/>
 - (전) Pple FrontEnd && BackEnd
 - (전) Buckit Development Lead
 - 제 14기 소프트웨어 마에스트로 연수생
+- KB 데이타시스템 인턴 (인프라운영)
 
 ### Awards
 - Microsoft ImaginCup Asia 대표 
