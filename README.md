@@ -67,7 +67,7 @@ DB           : PostgreSQL · MySQL · MongoDB
 **DART 기반 시공사 건전성 분석 파이프라인 구축**
 
 - 전자공시(DART) 기업 데이터 73,657건을 자동 수집·정규화하는 파이프라인 구축 (Python, Beautiful Soup, Pandas)
-- 비정형 "우발채무" 정보를 구조화하여 재무지표와 함께 시공사 건전성을 비교·조회 가능한 형태로 제공
+- 우발채무, 주택현황 등 비규격화된 정보를 구조화하여 재무지표와 함께 시공사 건전성을 비교·조회 가능한 형태로 제공
 
 **PF 사업 분양률 예측 모델 설계 및 개발**
 
@@ -162,10 +162,10 @@ API 호출량 감소     70%  (SW마에스트로, SSE 전환)
 ## Education & Certification
 
 - **세종대학교** 컴퓨터공학과 졸업
-- 프로그래밍 학술 동아리 En# 회장
+- 프로그래밍 학술 동아리 **En#** 회장
 - **SQLD** (SQL 개발자)
 
 ## Contact
 
-- GitHub: [@your-github](https://github.com/)
-- Email: <your-email@example.com>
+- GitHub: [@nookcoder](https://github.com/nookcoder/)
+- Email: <gus70005319@gmail.com>
