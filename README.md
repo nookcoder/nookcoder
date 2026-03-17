@@ -1,6 +1,23 @@
+<div align="center">
+
 # 김현욱 | Backend & Infrastructure Engineer
 
 > 설계부터 운영까지, 데이터·인프라·백엔드를 한 사이클로 만드는 엔지니어
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/cd)
+
+</div>
+
+---
 
 기능 구현에서 끝나지 않고, **데이터 정합성 · 배포 안정성 · 운영 추적성**까지 책임지는 엔지니어입니다.
 금융 도메인에서 기획-설계-구현-검증-운영 전 주기를 반복하며, "신뢰할 수 있는 시스템"을 만드는 데 집중해왔습니다.
@@ -16,16 +33,48 @@
 
 ## Tech Stack
 
-```
-Languages    : Python · TypeScript · Go · Java
-Backend      : Spring Boot · NestJS · Echo · JPA · GORM
-Data         : BigQuery · Pandas · Beautiful Soup · LangGraph
-Infra/DevOps : Kubernetes · Terraform · ArgoCD · Docker · GitHub Actions
-Cloud        : GCP (Cloud Run, Cloud SQL, Cloud Scheduler) · AWS (EC2, VPC, ECR, RDS)
-Messaging    : RabbitMQ · EventBridge · SNS/SQS · SSE
-Monitoring   : Grafana · Prometheus · Cloud Monitoring · Metabase
-DB           : PostgreSQL · MySQL · MongoDB
-```
+<details>
+<summary><b>Languages</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+</details>
+
+<details>
+<summary><b>Backend & Data</b></summary>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+<details>
+<summary><b>Infrastructure & DevOps</b></summary>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+</details>
+
+<details>
+<summary><b>Messaging & Monitoring</b></summary>
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+</details>
 
 ## Experience
 
@@ -67,7 +116,7 @@ DB           : PostgreSQL · MySQL · MongoDB
 **DART 기반 시공사 건전성 분석 파이프라인 구축**
 
 - 전자공시(DART) 기업 데이터 73,657건을 자동 수집·정규화하는 파이프라인 구축 (Python, Beautiful Soup, Pandas)
-- 우발채무, 주택현황 등 비규격화된 정보를 구조화하여 재무지표와 함께 시공사 건전성을 비교·조회 가능한 형태로 제공
+- 비정형 "우발채무" 정보를 구조화하여 재무지표와 함께 시공사 건전성을 비교·조회 가능한 형태로 제공
 
 **PF 사업 분양률 예측 모델 설계 및 개발**
 
@@ -122,15 +171,19 @@ DB           : PostgreSQL · MySQL · MongoDB
 
 ## Key Metrics
 
-```
-배포 성공률        97.4%  (어웨어랩, 월 39/40건)
-MTTR              34분   (유동산, 78분에서 개선)
-인프라 비용 절감    65%   (유동산, 월 70만 → 30만원)
-데이터 정합성       98.7% (어웨어랩, 오류율 1.3%)
-자문 리드타임       3일 → 4시간 (유동산)
-배포 리드타임       12h → 3h (SW마에스트로)
-API 호출량 감소     70%  (SW마에스트로, SSE 전환)
-```
+<div align="center">
+
+| 지표 | 수치 | 출처 |
+|:----:|:----:|:----:|
+| 배포 성공률 | **97.4%** | 어웨어랩 |
+| MTTR | **78분 → 34분** | 유동산 |
+| 인프라 비용 절감 | **65%** | 유동산 |
+| 데이터 정합성 | **98.7%** | 어웨어랩 |
+| 자문 리드타임 | **3일 → 4시간** | 유동산 |
+| 배포 리드타임 | **12h → 3h** | SW마에스트로 |
+| API 호출량 감소 | **70%** | SW마에스트로 |
+
+</div>
 
 ## What I Bring to Your Team
 
@@ -162,10 +215,17 @@ API 호출량 감소     70%  (SW마에스트로, SSE 전환)
 ## Education & Certification
 
 - **세종대학교** 컴퓨터공학과 졸업
-- 프로그래밍 학술 동아리 **En#** 회장
+- 프로그래밍 학술 동아리 En# 회장
 - **SQLD** (SQL 개발자)
+
+---
+
+<div align="center">
 
 ## Contact
 
-- GitHub: [@nookcoder](https://github.com/nookcoder/)
-- Email: <gus70005319@gmail.com>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nookcoder)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gus70005319@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeonukkim/)
+
+</div>
