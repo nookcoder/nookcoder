@@ -223,7 +223,7 @@
 <div align="center">
 
 ## Contact
-
+[![Resume](https://img.shields.io/badge/Resume-FF6154?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1fA53RA7myHEPnbf4hhUBDV9OfXeoNzxX/view?usp=share_link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nookcoder)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gus70005319@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeonukkim/)
